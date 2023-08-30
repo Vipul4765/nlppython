@@ -275,5 +275,4 @@ class Nlp:
         self.result_emotion['text'] = highest_value
 
 
-app = Nlp()
-gg
+app = Nlp() l
